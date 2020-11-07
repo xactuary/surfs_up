@@ -1,0 +1,13 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+Junk/
+.Python/
+# IPython
+profile_default/
+ipython_config.py
+# pyenv
+.python-version
+
+
+
