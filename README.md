@@ -25,7 +25,10 @@ This analysis compares the weather conditions in Hawaii in June and December.  T
   
 ### ANALYSIS
 
-The data provided was in an sqlite database which can be used on a local machine to do analytics without having to set up a server.  
+The data provided is in an sqlite database which can be used on a local machine to do analytics without having to set up a server.  Using Python, Pandas and Sqlalchemy in a Jupyter notebook, data for the month of June for the years 2010-2017 was filtered out using the following code:
+  
+  `results = session.query(Measurement.date,Measurement.tobs).filter(extract('month', Measurement.date)==6)`
+
   
 #### JUNE WEATHER STATISTICS 
 ![](https://github.com/xactuary/surfs_up/blob/main/Resources/June_stats.PNG)  
