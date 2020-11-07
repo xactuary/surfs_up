@@ -10,7 +10,11 @@ This analysis compares the weather conditions in Hawaii in June and December.  T
   
 ### ANALAYSIS
   
- 
+#### JUNE WEATHER STATISTICS 
+![](https://github.com/xactuary/surfs_up/blob/main/Resources/June_stats.PNG)  
   
+#### DECEMBER WEATHER STATISTICS
 ![](https://github.com/xactuary/surfs_up/blob/main/Resources/Dec_stats.PNG)
+
+
   
