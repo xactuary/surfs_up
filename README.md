@@ -8,5 +8,9 @@ This analysis compares the weather conditions in Hawaii in June and December.  T
 #### DATA PROVIDED  
 - sqlite database of Hawaii Dates and Weather Variables
   
+### ANALAYSIS
+  
+ 
+  
 ![](https://github.com/xactuary/surfs_up/blob/main/Resources/Dec_stats.PNG)
   
